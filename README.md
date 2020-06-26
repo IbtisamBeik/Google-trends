@@ -31,3 +31,6 @@ Story points:
 Tableau proves to be a very valuable tool not only in visualizing data, but also processing. For example, null values were detected by Tableau automatically, and in some cases filtered for enhanced visualization. 
 
 The data shows similar search trends for both terms "Data analysis" and "Data science", and it appeares that countries with highest number of searches are in Asia, India, and Africa.  
+
+## Link to the Tableau Public Workbook: 
+https://public.tableau.com/views/Datavisualization_15931957902770/Trends?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
